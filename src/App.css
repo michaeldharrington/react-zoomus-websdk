@@ -1,0 +1,17 @@
+button.launchButton {
+    z-index: 100;
+    position: fixed;
+    top: 16px;
+    left: 16px;
+    border: 0;
+    outline: 0;
+    color: #ffffff;
+    background: #0e71eb;
+    padding: 7px 16px 8px;
+    font-weight: 600;
+    border-radius: 8px;
+    font-size: 14px; 
+    line-height: 17px;
+    cursor: pointer;
+    margin: 8px;
+}
